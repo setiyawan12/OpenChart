@@ -1,0 +1,132 @@
+<?php
+// Heading
+$_['heading_title']              = 'Pesanan Umum';
+
+// Text
+$_['text_success']               = 'Berhasil: Anda Tleah berhasil mengubah fungsi Pesanan Umum!';
+$_['text_list']                  = 'Daftar Pesanan';
+$_['text_add']                   = 'Tambah Pesanan';
+$_['text_edit']                  = 'Ubah Pesanan';
+$_['text_filter']                = 'Cari Pesanan';
+$_['text_order_detail']          = 'Rincian Pesanan';
+$_['text_customer_detail']       = 'Rincian Pelanggan';
+$_['text_option']                = 'Opsi';
+$_['text_store']                 = 'Toko';
+$_['text_date_added']            = 'Tanggal Pemesanan';
+$_['text_payment_method']        = 'Metode Pembayaran';
+$_['text_shipping_method']       = 'Metode Pengiriman';
+$_['text_customer']              = 'Nama Pelanggan';
+$_['text_customer_group']        = 'Kelompok Pelanggan';
+$_['text_email']                 = 'E-Mail';
+$_['text_telephone']             = 'No. Telpon';
+$_['text_fax']                   = 'Fax';
+$_['text_invoice']               = 'Faktur / Tagihan';
+$_['text_reward']                = 'Poin Hadiah';
+$_['text_affiliate']             = 'Afiliasi';
+$_['text_order']                 = 'Pesanan (#%s)';
+$_['text_payment_address']       = 'Alamat Pembayaran';
+$_['text_shipping_address']      = 'Alamat Pengiriman';
+$_['text_comment']               = 'Komentar Pelanggan';
+$_['text_history']               = 'Riwayat Pesanan';
+$_['text_history_add']           = 'Tambahkan Riwayat Pesanan';
+$_['text_account_custom_field']  = 'Bidang Tambahan Akun';
+$_['text_payment_custom_field']  = 'Bidang Tambahan Pembayaran';
+$_['text_shipping_custom_field'] = 'Bidang Tambahan Alamat Pengiriman';
+$_['text_browser']               = 'Browser';
+$_['text_ip']                    = 'Alamat IP';
+$_['text_forwarded_ip']          = 'IP yang diteruskan';
+$_['text_user_agent']            = 'Agen Pengguna';
+$_['text_accept_language']       = 'Bahasa yang digunakan';
+$_['text_order_id']              = '#ID Pesanan:';
+$_['text_website']               = 'Web Site:';
+$_['text_invoice_no']            = 'No. Faktur / Tagihan:';
+$_['text_invoice_date']          = 'Tanggal Faktur / Tagihan:';
+$_['text_sku']                   = 'SKU:';
+$_['text_upc']                   = 'UPC:';
+$_['text_ean']                   = 'EAN:';
+$_['text_jan']                   = 'JAN:';
+$_['text_isbn']                  = 'ISBN:';
+$_['text_mpn']                   = 'MPN:';
+$_['text_missing']               = 'Pesanan Hilang';
+$_['text_default']               = 'Standar Diterapkan';
+$_['text_product']               = 'Tambahkan Produk(s)';
+$_['text_voucher']               = 'Tambahkan Voucher(s)';
+$_['text_shipping']              = 'Pengiriman';
+$_['text_contact']               = 'Kontak';
+$_['text_reward_added']          = 'Berhasil: Poin Hadiah telah ditambahkan!';
+$_['text_reward_removed']        = 'Berhasil: Poin Hadiah telah dihilangkan!';
+$_['text_commission_added']      = 'Berhasil: Komisi telah ditambahkan!';
+$_['text_commission_removed']    = 'Berhasil: Komisi telah dihilangkan!';
+$_['text_restock']               = 'Berhasil: Produk berhasil di stok ulang!';
+$_['text_upload']                = 'Berkas telah berhasil diunggah!';
+$_['text_picklist']              = 'Catatan Pengiriman';
+
+// Column
+$_['column_order_id']            = '#ID Pesanan';
+$_['column_customer']            = 'Nama Pelanggan';
+$_['column_status']              = 'Status';
+$_['column_date_added']          = 'Tanggal Pesanan Dibuat';
+$_['column_date_modified']       = 'Tanggal Pesanan Diubah';
+$_['column_total']               = 'Total';
+$_['column_product']             = 'Produk';
+$_['column_model']               = 'Model Produk';
+$_['column_quantity']            = 'Kuantiti';
+$_['column_price']               = 'Harga Satuan';
+$_['column_comment']             = 'Komentar';
+$_['column_notify']              = 'Catatan dari Pelanggan';
+$_['column_location']            = 'Lokasi';
+$_['column_reference']           = 'Referensi';
+$_['column_action']              = 'Aksi';
+$_['column_weight']              = 'Berat Produk';
+
+// Entry
+$_['entry_store']                = 'Toko';
+$_['entry_customer']             = 'Pelanggan';
+$_['entry_customer_group']       = 'Kelompok Pelanggan';
+$_['entry_firstname']            = 'Nama Depan';
+$_['entry_lastname']             = 'Nama Belakang';
+$_['entry_email']                = 'E-Mail';
+$_['entry_telephone']            = 'No. Telpon';
+$_['entry_address']              = 'Pilihan Alamat';
+$_['entry_company']              = 'Perusahaan';
+$_['entry_address_1']            = 'Alamat Baris 1';
+$_['entry_address_2']            = 'Alamat Baris 2';
+$_['entry_city']                 = 'Kota';
+$_['entry_postcode']             = 'Kodepos';
+$_['entry_country']              = 'Negara';
+$_['entry_zone']                 = 'Wilayah / Provinsi';
+$_['entry_zone_code']            = 'Kode Wilayah / Provinsi';
+$_['entry_product']              = 'Pilihan Produk';
+$_['entry_option']               = 'Pilihan Opsi(s)';
+$_['entry_quantity']             = 'Kuantiti';
+$_['entry_to_name']              = 'Nama Penerima';
+$_['entry_to_email']             = 'Email Penerima';
+$_['entry_from_name']            = 'Nama Pengirim';
+$_['entry_from_email']           = 'Email Pengirim';
+$_['entry_theme']                = 'Thema Sertifikat Hadiah';
+$_['entry_message']              = 'Pesan';
+$_['entry_amount']               = 'Jumlah';
+$_['entry_affiliate']            = 'Afiliasi';
+$_['entry_order_status']         = 'Status Pesanan';
+$_['entry_notify']               = 'Pemberitahuan Pelanggan';
+$_['entry_override']             = 'Pergantian';
+$_['entry_comment']              = 'Komentar';
+$_['entry_currency']             = 'Mata Uang';
+$_['entry_shipping_method']      = 'Metode Pengiriman';
+$_['entry_payment_method']       = 'Metode Pembayaran';
+$_['entry_coupon']               = 'Kupon';
+$_['entry_voucher']              = 'Voucher';
+$_['entry_reward']               = 'Hadiah';
+$_['entry_order_id']             = '#ID Pesanan';
+$_['entry_total']                = 'Total';
+$_['entry_date_added']           = 'Tanggal Pesanan Dibuat';
+$_['entry_date_modified']        = 'Tanggal Pesanan Diubah';
+
+// Help
+$_['help_override']              = 'Jika pesanan pelanggan diblokir dan supaya status pesanan tidak berubah dikarenan terdeteksi sebagai Anti-Penipuan, maka Anda dapat atur penggantian pesanan.';
+
+// Error
+$_['error_warning']              = 'Peringatan: Silahakan cek kembali bagian yang salah!';
+$_['error_permission']           = 'Peringatan: Anda tidak diizinkan untuk mengubah status Pesanan Umum!';
+$_['error_action']               = 'Peringatan: Tidak dapat menyelesaikan tindakan ini!';
+$_['error_filetype']             = 'Jenis berkas ini tidak valid!';
